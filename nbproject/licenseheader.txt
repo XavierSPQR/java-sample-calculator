@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}CalculatorProject-ICT5-2022
+${licensePrefix}@AnjaliC,@MalshanS,@BimalkaS,@TharnagaD
+<#if licenseLast??>
+${licenseLast}
+</#if>
